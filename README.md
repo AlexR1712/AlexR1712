@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**AlexR1712/AlexR1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nerdynerd09/nerdynerd09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/AlexR1712/"><img align="center" title="My Github Stats" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlexR1712&count_private=true&hide=issues&show_icons=true&theme=radical" /></a>
+
+<a href="https://github.com/AlexR1712/"><img align="center" title="My Top Languages" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexR1712&hide=jupyter%20notebook&layout=compact&theme=radical" /></a>
